@@ -19,7 +19,7 @@
 #include <linux/path.h> /* Needed for  */
 #include <linux/mount.h> /* Needed for kern_path */
 
-MODULE_AUTHOR("yfujieda");
+MODULE_AUTHOR("mouri-lab yfujieda");
 MODULE_DESCRIPTION("packet dump");
 MODULE_LICENSE("GPL");
 
